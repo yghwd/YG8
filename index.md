@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## 小可爱佳佳的个人网站
 
 You can use the [editor on GitHub](https://github.com/yghwd/YG8/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
